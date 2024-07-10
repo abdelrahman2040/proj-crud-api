@@ -23,7 +23,6 @@ public class employee {
     //constructors
     public employee(){}
     public employee(int id, String firstname, String lastname, String email) {
-        this.id = id;
         this.firstname = firstname;
         this.lastname = lastname;
         this.email = email;
